@@ -1,2 +1,3 @@
 Name:Alia
 Age:30
+favouriteColor:Purple
